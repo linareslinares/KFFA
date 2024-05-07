@@ -7,6 +7,6 @@ Add Arena
 - /setkffa [MapName] [SpawnCoords]
 
 Game
-- /kffa <join/quit>
-- /kffa <ktop> [Spawn Leaderboard]
-- /kffa <knpc> [Spawn NPC to join]
+- /kffa (join/quit)
+- /kffa (ktop) [Spawn Leaderboard]
+- /kffa (knpc) [Spawn NPC to join]
