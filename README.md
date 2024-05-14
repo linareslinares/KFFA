@@ -9,4 +9,4 @@ Add Arena
 Game
 - /kffa (join/quit)
 - /kffa ktop kills [Spawn Leaderboard]
-- - /kffa ktop deaths [Spawn Leaderboard]
+- /kffa ktop deaths [Spawn Leaderboard]
