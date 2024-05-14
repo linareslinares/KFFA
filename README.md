@@ -7,6 +7,7 @@ Add Arena
 - /setkffa [MapName] [SpawnCoords]
 
 Game
-- /kffa (join/quit)
-- /kffa ktop kills [Spawn Leaderboard]
-- /kffa ktop deaths [Spawn Leaderboard]
+- /kffa join (Entrar al mini-juego)
+- /kffa quit (Salir del mini-juego)
+- /kffa ktop kills (Spawn Leaderboard)
+- /kffa ktop deaths (Spawn Leaderboard)
