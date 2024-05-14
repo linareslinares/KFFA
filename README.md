@@ -12,7 +12,7 @@ Game
 - /kffa ktop kills (Spawn Leaderboard)
 - /kffa ktop deaths (Spawn Leaderboard)
 
-## Information
+# Information
 
 Como eliminar la arena? 
 - En tu carpeta de Plugin_data busca la carpeta del plugin y entra al config.yml y deja los parametros "arena" en blanco -> []
