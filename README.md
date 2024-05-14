@@ -16,11 +16,11 @@ Game
 
 Como eliminar la arena? 
 - En tu carpeta de Plugin_data busca la carpeta del plugin y entra al config.yml y deja los parametros "arena" en blanco -> []
-Ejemplo:
-  arena:
-    name: []
-    coords: []
-    spawn: "3"
+- Ejemplo:
+-  arena:
+-    name: []
+-    coords: []
+-    spawn: "3"
   
 Como eliminar los Leaderboard?
 - Dentro del juego usa un Pico de Piedra y has click en la posición donde esta el Leaderboard.
