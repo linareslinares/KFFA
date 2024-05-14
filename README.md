@@ -8,5 +8,5 @@ Add Arena
 
 Game
 - /kffa (join/quit)
-- /kffa (ktop) [Spawn Leaderboard]
-- /kffa (knpc) [Spawn NPC to join]
+- /kffa ktop kills [Spawn Leaderboard]
+- - /kffa ktop deaths [Spawn Leaderboard]
