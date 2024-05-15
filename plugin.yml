@@ -1,0 +1,13 @@
+name: KFFA
+main: linareslinares\KFFA
+api: [5.0.0]
+version: 1.0
+author: "LinaresFunado [YT: @linareslinares]"
+
+permissions:
+  kffa.command:
+    default: true
+  setkffa.command:
+    default: op
+  removetops.command:
+    default: op

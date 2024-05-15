@@ -1,0 +1,11 @@
+# Leaderboard Config.
+SubTitle_kills: "&l &b✕ &cTOP KILLS &b✕&r"
+SubTitle_deaths: "&l &b✕ &6TOP DEATHS &b✕&r"
+Line_topkills: " &l&e#&a {place} &e›&b {player} &e›&6 {kill} "
+Line_topdeaths: " &l&e#&a {place} &e›&b {player} &e›&c {death} "
+IP_server: "play.example.net"
+# Arena Set-Up.
+arena:
+  name: []
+  coords: []
+  spawn: "3" # Spawn Protected Zone (3 Blocks) default.
